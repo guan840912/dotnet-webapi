@@ -1,0 +1,12 @@
+FROM dotnetru/server:latest
+
+EXPOSE 8080
+EXPOSE 80
+
+EXPOSE 5000
+EXPOSE 5001
+COPY ./bin /app/
+
+
+
+CMD [ "sh", "-c", "dotnet /app/Debug/netcoreapp2.2/webapilab1.dll" ]

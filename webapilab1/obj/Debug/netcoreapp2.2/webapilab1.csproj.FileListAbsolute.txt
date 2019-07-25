@@ -1,0 +1,14 @@
+C:\Users\guan\dotnetapp\webapilab1\bin\Debug\netcoreapp2.2\webapilab1.deps.json
+C:\Users\guan\dotnetapp\webapilab1\bin\Debug\netcoreapp2.2\webapilab1.runtimeconfig.json
+C:\Users\guan\dotnetapp\webapilab1\bin\Debug\netcoreapp2.2\webapilab1.runtimeconfig.dev.json
+C:\Users\guan\dotnetapp\webapilab1\bin\Debug\netcoreapp2.2\webapilab1.dll
+C:\Users\guan\dotnetapp\webapilab1\bin\Debug\netcoreapp2.2\webapilab1.pdb
+C:\Users\guan\dotnetapp\webapilab1\obj\Debug\netcoreapp2.2\webapilab1.csprojAssemblyReference.cache
+C:\Users\guan\dotnetapp\webapilab1\obj\Debug\netcoreapp2.2\webapilab1.csproj.CoreCompileInputs.cache
+C:\Users\guan\dotnetapp\webapilab1\obj\Debug\netcoreapp2.2\webapilab1.RazorAssemblyInfo.cache
+C:\Users\guan\dotnetapp\webapilab1\obj\Debug\netcoreapp2.2\webapilab1.RazorAssemblyInfo.cs
+C:\Users\guan\dotnetapp\webapilab1\obj\Debug\netcoreapp2.2\webapilab1.AssemblyInfoInputs.cache
+C:\Users\guan\dotnetapp\webapilab1\obj\Debug\netcoreapp2.2\webapilab1.AssemblyInfo.cs
+C:\Users\guan\dotnetapp\webapilab1\obj\Debug\netcoreapp2.2\webapilab1.RazorTargetAssemblyInfo.cache
+C:\Users\guan\dotnetapp\webapilab1\obj\Debug\netcoreapp2.2\webapilab1.dll
+C:\Users\guan\dotnetapp\webapilab1\obj\Debug\netcoreapp2.2\webapilab1.pdb
