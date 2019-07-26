@@ -1,0 +1,17 @@
+FROM microsoft/dotnet:2.1-sdk AS build
+WORKDIR /app
+
+COPY ./ /app
+
+#will running dotnet restore on /app/webapilab1.csproj ...
+#and build bin/ in /app/
+RUN dotnet build
+
+#Publish the application with the specified project file
+RUN dotnet publish /app/webapilab1.csproj -c Release -o /app/out
+
+FROM microsoft/dotnet:2.1-aspnetcore-runtime AS runtime
+WORKDIR /app
+COPY --from=build /app/out ./
+ENTRYPOINT ["dotnet", "webapilab1.dll"]
+
